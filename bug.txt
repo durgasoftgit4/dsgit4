@@ -1,1 +1,1 @@
-this is new logic for new feature
+this is new logic with new function
